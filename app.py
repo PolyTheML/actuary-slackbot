@@ -10,7 +10,7 @@ app = Flask(__name__)
 # ============================================
 # CONFIGURATION - Uses Environment Variables
 # ============================================
-EXCEL_FILE = 'sample_actuarial_data.xlsx'
+EXCEL_FILE = 'actuarial_sophisticated_sample.xlsx'
 LOSS_RATIO_THRESHOLD = 75.0
 
 # Read from environment variables (set in Render dashboard)
